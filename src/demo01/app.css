@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+.hd{
+    height: 60px;
+    line-height: 60px;
+    background:#20232a;
+}
+.hd a{
+    text-decoration: none;
+    padding: 0 30px;
+    color:#fff;
+}
+.home, .product , .about{
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
